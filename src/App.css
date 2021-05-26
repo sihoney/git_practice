@@ -1,0 +1,22 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+.searchForm {
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 30px 0;
+}
+.search-bar {
+  margin-right: 15px;
+  font-size: 20px;
+}
+.search-btn {
+  border: none;
+  background: coral;
+  color: white;
+  border-radius: 10px;
+}
